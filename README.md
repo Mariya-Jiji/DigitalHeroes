@@ -4,7 +4,7 @@ A subscription-driven web platform combining golf performance tracking, monthly
 draw-based prize pools, and charitable giving. Built as a take-home assignment
 against the Digital Heroes Level 1 PRD.
 
-**Live URL:** _[add your Vercel deployment link here]_
+**Live URL:** https://digital-heroes-vert.vercel.app/
 
 ---
 
